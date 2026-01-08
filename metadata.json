@@ -1,0 +1,5 @@
+{
+  "name": "SiteMaster Pro - 工地排程管理系統",
+  "description": "一個專業的高級工地排程管理應用程式，仿照 iOS 原生設計風格。提供施工項目進度追蹤、施工天數計算、剩餘工期分析以及 AI 智慧排程建議。",
+  "requestFramePermissions": []
+}
